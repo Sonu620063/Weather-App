@@ -1,0 +1,19 @@
+/* Import Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.custom-bg {
+  background: #125048 !important;
+}
+
+button.custom-bg:hover {
+  background: rgb(67, 239, 153) !important;
+}
+
+.current-weather img {
+  max-width: 120px;
+  margin-top: -15px;
+}
